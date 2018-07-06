@@ -2,7 +2,7 @@
 Retrieve data from my sql database using mule database connector
 
 1. install my sql sever locally (if not alrady exit) 
-2. create a "course" table in "mysmsdb" 
+2. create a "course" table in "mysmsdb" with "id", "name" and "description" column 
 
 3. run the project as "MUle application with Maven"
 
